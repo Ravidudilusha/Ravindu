@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ravindu/static/css/main.f3e435d2.css",
+    "main.js": "/Ravindu/static/js/main.40a876d5.js",
+    "static/js/453.ddfef37b.chunk.js": "/Ravindu/static/js/453.ddfef37b.chunk.js",
+    "static/media/aboutsectionimg.svg": "/Ravindu/static/media/aboutsectionimg.4ced27459c4eb18448e8dc07ca8a9bfb.svg",
+    "static/media/work1.svg": "/Ravindu/static/media/work1.b5ba7835dc7beb0550819857a1938491.svg",
+    "static/media/work2.svg": "/Ravindu/static/media/work2.e1980f6927d4fc75e07f9dec490d76ff.svg",
+    "static/media/DP.svg": "/Ravindu/static/media/DP.57cf637377d1b4890ad4af4463700c6b.svg",
+    "static/media/work3.svg": "/Ravindu/static/media/work3.7dff278f33710502a21364855afeabd0.svg",
+    "static/media/logo.svg": "/Ravindu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ravindu/index.html",
+    "static/media/hamburger.svg": "/Ravindu/static/media/hamburger.32acc48152c8e1d2109d.svg",
+    "main.f3e435d2.css.map": "/Ravindu/static/css/main.f3e435d2.css.map",
+    "main.40a876d5.js.map": "/Ravindu/static/js/main.40a876d5.js.map",
+    "453.ddfef37b.chunk.js.map": "/Ravindu/static/js/453.ddfef37b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3e435d2.css",
+    "static/js/main.40a876d5.js"
+  ]
+}
